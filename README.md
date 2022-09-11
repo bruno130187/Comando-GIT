@@ -1,5 +1,5 @@
 # Comandos-GIT
-##Comandos para subir projeto para subir projetos para o GIT
+##Comandos para subir projetos locais para o GIT
 
 git config --global user.email "you@example.com"'
 
