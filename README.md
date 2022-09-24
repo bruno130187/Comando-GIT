@@ -13,4 +13,4 @@ git commit -m "first commit"
 
 git remote add origin https://github.com/seuusuario/linkdoprojetogit.git
 
-git push -u origin master
+git push -u origin main
